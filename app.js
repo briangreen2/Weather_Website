@@ -1,6 +1,3 @@
-S3_BUCKET="YOURS3BUCKET"
-SECRET_KEY="b52bf138805d9e2d56a82b5179c4e513"
-
 
 let weather = {
     apiKey: "b52bf138805d9e2d56a82b5179c4e513",
